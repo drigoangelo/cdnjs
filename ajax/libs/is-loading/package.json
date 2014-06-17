@@ -1,0 +1,22 @@
+{
+    "name": "is-loading",
+    "filename": "jquery.isloading.min.js",
+    "version": "1.0.0",
+    "description": "Small helper to give the user a visual feedback that something is happening when fetching/posting data.",
+    "homepage": "https://github.com/hekigan/is-loading",
+    "keywords": [
+        "loading",
+        "jquery"
+    ],
+    "maintainers": [
+        {
+            "name": "Laurent Blanes"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/hekigan/is-loading"
+        }
+    ]
+}
